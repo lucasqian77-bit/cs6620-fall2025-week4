@@ -50,3 +50,4 @@ if __name__ == "__main__":
     print(f"7 * 3 = {result2}")
 
     print("Calculator completed successfully!")
+    
